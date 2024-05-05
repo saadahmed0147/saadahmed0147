@@ -12,7 +12,7 @@
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: saadahmed0147@gmail.com
   
-<h3 align="center">### Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 
 <div id="badges">
   <a href="https://github.com/SaadAhmed0147">
