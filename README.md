@@ -1,4 +1,10 @@
  <h1 align="center">Hi 👋, I'm Saad Ahmed</h1>
+ 
+<div align="left">
+  
+[![](https://visitcount.itsvg.in/api?id=saadahmed0147&icon=3&color=6)](https://github.com/saadahmed0147)
+  
+</div>
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Firebase
