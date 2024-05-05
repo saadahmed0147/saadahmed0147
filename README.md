@@ -11,20 +11,22 @@
 - 🌱 I’m currently learning Firebase
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: saadahmed0147@gmail.com
-  
-<h3 align="center">Connect with me:</h3>
 
-<div id="badges">
-  <a href="https://github.com/SaadAhmed0147">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-   <a href="https://www.linkedin.com/in/saadahmed0147/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-
-</div>
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,dart,flutter,git,github,postman,)](https://skillicons.dev)
+
+
+<p align="center">
+ </a>
+  <a href="https://www.linkedin.com/in/saadahmed0147/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/waleed.binnaeem.7" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+
+</p>
 
 
 <table align="center">
@@ -44,14 +46,14 @@
 </tr>
 </table>
 
+  
+<h3 align="center">Connect with me:</h3>
 
-<p align="center">
- </a>
-  <a href="https://www.linkedin.com/in/saadahmed0147/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<div id="badges">
+  <a href="https://github.com/SaadAhmed0147">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://fb.com/waleed.binnaeem.7" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
+   <a href="https://www.linkedin.com/in/saadahmed0147/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
-</p>
+</div>
