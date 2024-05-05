@@ -12,7 +12,8 @@
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: saadahmed0147@gmail.com
   
-### Connect with me:
+<h3 align="center">### Connect with me:</h3>
+
 <div id="badges">
   <a href="https://github.com/SaadAhmed0147">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
@@ -42,3 +43,15 @@
   </td>
 </tr>
 </table>
+
+
+<p align="center">
+ </a>
+  <a href="https://www.linkedin.com/in/saadahmed0147/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/waleed.binnaeem.7" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+
+</p>
