@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,dart,flutter,git,github,postman,)](https://skillicons.dev)
 
 ### Connect with me:
-<p align="center">
+
  </a>
   <a href="https://www.linkedin.com/in/saadahmed0147/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -26,7 +26,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 
-</p>
+
 
 
 <table align="center">
