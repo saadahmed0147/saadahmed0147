@@ -24,10 +24,6 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,dart,flutter,git,github,postman,)](https://skillicons.dev)
 
-![Saad Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadahmed0147&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadahmed0147&theme=dark)
-
 
 <table align="center">
 <tr border="none">
