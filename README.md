@@ -18,18 +18,15 @@
 
 ### Connect with me:
 
+ 
+<div id="badges">
+  <a href="https://github.com/SaadAhmed0147">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+   <a href="https://www.linkedin.com/in/saadahmed0147/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
- </a>
-  <a href="https://www.linkedin.com/in/saadahmed0147/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/saadahmed0147" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/saadahmed0147" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-
+</div>
 
  <br></br>
 
@@ -50,14 +47,10 @@
 </tr>
 </table>
 
-  
-<h3 align="center">Connect with me:</h3>
-
-<div id="badges">
-  <a href="https://github.com/SaadAhmed0147">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-   <a href="https://www.linkedin.com/in/saadahmed0147/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-
-</div>
+  <a href="https://www.linkedin.com/in/saadahmed0147/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/saadahmed0147" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
