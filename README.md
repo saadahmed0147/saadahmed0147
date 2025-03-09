@@ -8,9 +8,9 @@
 </div>
 
 - 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Firebase
+- 🌱 I’m currently learning GetX state management in Flutter
 - 💬 Ask me anything about Flutter 
-- 📫 How to reach me: saadahmed0147@gmail.com
+- 📫 Contact me at: saadahmed0147@gmail.com
 
 
 ### Languages and Tools:
