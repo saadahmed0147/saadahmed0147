@@ -8,7 +8,7 @@
 </div>
 
 - 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning GetX state management in Flutter
+- 🌱 I’m currently learning BLoC state management in Flutter
 - 💬 Ask me anything about Flutter 
 - 📫 Contact me at: saadahmed0147@gmail.com
 
