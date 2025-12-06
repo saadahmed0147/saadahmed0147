@@ -152,6 +152,6 @@ I'm currently **available for freelance projects** and **full-time opportunities
 
 <div align="center">
 
-### 🚀 "Building the future, one app at a time"
+### 🚀 "Building the future"
 
 </div>
