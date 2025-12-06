@@ -3,7 +3,7 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Live%20Site-blue?style=for-the-badge&logo=vercel)](https://saadahmed0147.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=vercel)](https://saadahmed0147.github.io)
 [![](https://visitcount.itsvg.in/api?id=saadahmed0147&icon=3&color=6)](https://github.com/saadahmed0147)
   
 </div>
